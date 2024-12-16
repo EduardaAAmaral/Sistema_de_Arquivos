@@ -1,5 +1,5 @@
-#Edurda Alves Amaral - 155563
-#Bruno Machado Lobato - 156966
+# Edurda Alves Amaral - 155563
+# Bruno Machado Lobato - 156966
 # Leia o README.md
 
 from Sistema_Arquivos import SistemaArquivos
