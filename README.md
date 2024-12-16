@@ -14,7 +14,7 @@ Este projeto Python implementa uma simulação simples de sistema de arquivos, c
 ## Uso
 
 1. **Instalação:**
-    - Clone o repositório: git clone https://github.com/gvlk/file-system.git
+    - Clone o repositório: git Clone https://github.com/EduardaAAmaral/Sistema_de_Arquivos.git
     -Navegue até o diretório do projeto: cd file-system
 
 2. **Executar a Simulação:**
