@@ -186,7 +186,7 @@ class SistemaArquivos:
         bloco_atual = primeiro_bloco
         secao_fat = self.ler_bloco(endereco_fat + primeiro_bloco // tamanho_secao_fat)
         while bloco_atual != -1:
-            fatia_dados = self.fs[bloco_atual + endereco_dados]
+            fatia_dados = self.sistema_arquivos[bloco_atual + endereco_dados]
             conteudo_serializado += fatia_dados
             bloco_atual = secao_fat[bloco_atual]
 
