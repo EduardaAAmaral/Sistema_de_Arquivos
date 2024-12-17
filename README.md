@@ -16,17 +16,3 @@ Este projeto Python implementa uma simulação simples de sistema de arquivos, c
 1. **Instalação:**
     - Clone o repositório: git Clone https://github.com/EduardaAAmaral/Sistema_de_Arquivos.git
     -Navegue até o diretório do projeto: cd file-system
-
-2. **Executar a Simulação:**
-
-  - Execute o script principal com as opções desejadas:
-    ```bash
-    python main.py -s <tamanho_em_MB> -f <arquivo_fs> --copy_to_fs <caminho_arquivo>
-    ```
-3. **Opções de Linha de Comando:**
-    -s, --size: Defina o tamanho do sistema de arquivos simulado em megabytes (padrão: 200).
-    -f, --fs_file: Especifique o nome do arquivo do sistema de arquivos simulado (padrão: "furgfs.fs").
-    --copy_to_fs: Copie um arquivo do sistema de arquivos real para o sistema de arquivos simulado.
-
-# Licença
-Este projeto está licenciado sob a Licença MIT.
